@@ -1,4 +1,4 @@
-# ProjetoInstagram
+# Projeto Instagram
 Projeto criado sobe tutoria dos professores da Digital Inovation One (DIO), 
 que possuí  como intuíto a criação de uma interface de login do instagram.
 
